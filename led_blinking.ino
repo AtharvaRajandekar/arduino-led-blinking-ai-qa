@@ -9,5 +9,5 @@ void loop() {
   delay(1000);
 
   digitalWrite(ledPin, LOW);
-  delay(1000);
+  delay(10000);
 }
